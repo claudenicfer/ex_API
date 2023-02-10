@@ -1,5 +1,5 @@
 // Importa o bd.js para poder usar o banco de dados simulado
-import { bdTarefas } from "../bd.js"
+// import { bdTarefas } from "../infra/db.js"
 
 class tarefaController {
     static rotas(app){
